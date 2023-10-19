@@ -1,0 +1,42 @@
+hypertext marker lenguage
+
+nodo especial para poder decir al naveador como debe de interpretar el archivo 
+
+SEO 
+Doctype HTML y los metadatos como utf-8(codificacion)
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> par que se adapte a nuestro navegador 
+ <meta name="theme-color" content="#09f"> para poder cambiar el color de la parte superior del navegador cuando 
+ ingresen a nuestra pagina 
+ <link rel="icon" type="image/jpeg" href="/img/38108757.jpeg"> para poder poner un icono 
+
+<meta name="description" content="Portafolio de luis celiun apasionado desarrollador web con un enfoque en 
+    el frontend y una sólida experiencia en HTML, CSS y JavaScript "> para que cuando te busquen en google aparece esta 
+    descripcion 
+
+link rel="alternative" href="https://luisceli.dev/en" hreflang="es-GB" para decir que nuestra pagina puede existir en otro
+idioma 
+
+
+OPEN GRAPH-> Para poder tratar todo sobre SEO
+
+<Etiquetas de texto>
+h1-> para titulos -> todo  lo que esta dentro es un elemento HTML
+h2-> para subtitulos
+h3-> etc
+p-> para parrafos 
+
+etiqueta  para imagenes
+img 
+ atributos globales  que afectan a cualquier etiqueta 
+  id-> identificador y solo puede  tener un solo valor, es decir que no se puede
+  repetir
+  class->  pra poder trabajr con varios elementos 
+
+no semantico 
+span-> contenido en linea
+div-> contenido en bloque 
+
+HTML semantico 
+
+role para definir cuando trabajar con un div si no sabemos ha que vamos a referirnos 
+
